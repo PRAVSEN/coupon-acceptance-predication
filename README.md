@@ -1,4 +1,4 @@
-# Coupon-Acceptance-Prediction
+# Analysis on the Probability of Coupon Acceptance 
 Detailed Data Analysis on Coupon Acceptance rate based on various factors & dimensions
 
 # Summary
