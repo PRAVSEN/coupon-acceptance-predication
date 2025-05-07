@@ -1,17 +1,17 @@
-## Coupon-Acceptance-Prediction
+# Coupon-Acceptance-Prediction
 Detailed Data Analysis on Coupon Acceptance rate based on various factors & dimensions
 
-## Summary
+# Summary
 
 Exploratory Data Analysis:
 
-# Highlights:
+## Highlights:
 
 1. 74 Duplicate Rows Identified
 2. Heat Map shows that the 99% of Cars Column is null, hence not suitable for Data Analysis
 3. Age Column has string values such as 50plus & below21 hence they need to be appropriately categorized and cannot be considered integer
 
-# Observations:
+## Observations:
 
 1. Bar Coupon Acceptance is 56.76 % on Total Observations
 2. Visualizing Acceptance among Coupon Column, states the probablity of coupon acceptannce is higher in "Carry & Take Away" & "Restaurants under 20"
